@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Bye Bye My Love（U are the one）",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-19T13:29:20.792839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye Bye My Love（U are the one） - Bye Bye My Love(U are the one)",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/01_Bye_Bye_My_Love(U_are_the_one)_-_Bye_Bye_My_Love(U_are_the_one)_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BYE BYE MY LOVE (U are the one)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/02_BYE_BYE_MY_LOVE_(U_are_the_one)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ｂｙｅ　Ｂｙｅ　Ｍｙ　Ｌｏｖｅ（Ｕ　ａｒｅ　ｔｈｅ　ｏｎｅ）",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_Bye_Bye_My_Love(U_are_the_one)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BYE BYE MY LOVE（U are the one",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_BYE_BYE_MY_LOVE(U_are_the_one_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bye Bye My Love (U are the one)",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/05_Bye_Bye_My_Love_(U_are_the_one)_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bye Bye My Love (U are the one)",
+      "artist": "Southern all Stars",
+      "has_synced": true,
+      "path": "select/06_Bye_Bye_My_Love_(U_are_the_one)_Southern_all_Stars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bye Bye My Love (U Are The One)",
+      "artist": "Southern All Stars (サザンオールスターズ)",
+      "has_synced": true,
+      "path": "select/07_Bye_Bye_My_Love_(U_Are_The_One)_Southern_All_Stars_(サザンオールスターズ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bye Bye My Love(U are the one) [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/08_Bye_Bye_My_Love(U_are_the_one)_[2024_Remaster]_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bye Bye My Love(U are the one)",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/09_Bye_Bye_My_Love(U_are_the_one)_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BYE BYE MY LOVE(U are the one)",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_BYE_BYE_MY_LOVE(U_are_the_one)_サザンオールスターズ.txt"
+    }
+  ]
+}
